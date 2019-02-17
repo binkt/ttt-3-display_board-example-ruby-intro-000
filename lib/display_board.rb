@@ -2,5 +2,5 @@ def display_board
   puts "__|__|__"
   puts "__|__|__"
   puts "  |  |"
-  display_board
 end
+display_board
